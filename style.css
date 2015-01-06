@@ -1,15 +1,15 @@
 @CHARSET "UTF-8";
 
-div#wrapper{
+div#wrapper {
 	text-align: left;
-    margin: 0 auto;
-    width: 1024px;
-    padding: 0.5em;
-    border: 2px ridge silver;
-  }
+	margin: 0 auto;
+	width: 1024px;
+	padding: 0.5em;
+	border: 2px ridge silver;
 }
 
-header{
+}
+header {
 	display: inline;
 }
 
@@ -17,41 +17,25 @@ form {
 	display: inline;
 }
 
-ul.account{
+ul.account {
 	display: inline;
 	list-style-type: none;
 }
 
-ul.gov{
+ul.gov {
 	display: inline;
 	list-style-type: none;
 }
 
-li.account, li.gov{
+li.account, li.gov {
 	display: inline;
 }
 
-a.account, a.gov{
+a.account, a.gov {
 	width: 60px;
 	text-decoration: none;
 	padding: 0.1em 0.3em;
 	text-align: center;
-}
-
-
-ul.menu{
-	list-style-type: none;
-}
-
-li.menu{
-	height: 30px;
-	border-style: none;
-	text-align: center; 
-}
-
-a.menu {
-	text-decoration: none;
-	display: block;
 }
 
 header {
@@ -62,24 +46,80 @@ input.suchText {
 	width: 28em;
 }
 
-nav {
-    float: left; 
-    width: 8em;
-    margin: 0; padding: 0;
-}
-
-main {
-	margin-top: 1.5em;
-	margin-bottom: 1.5em;
-    margin-left: 12em;
-    padding: 0 1em;
-}
-
 footer {
 	text-align: center;
 }
 
-h1{
+h1 {
 	text-align: center;
 	margin: 10em;
+}
+
+table.verein {
+	text-align: center;
+	margin: 0px auto;
+}
+
+ul.menu {
+	font-size: 0.91em;
+	float: left;
+	width: 10em;
+	margin: 1em;
+	padding: 0;
+	border: 1px dashed silver;
+}
+
+ul.menu li {
+	list-style: none;
+	margin: 0;
+	padding: 0.5em;
+}
+
+ul.menu a {
+	display: block;
+	padding: 0.2em;
+	font-weight: bold;
+}
+
+ul.menu a:link {
+	color: black;
+	background-color: #eee;
+}
+
+ul.menu a:visited {
+	color: #666;
+	background-color: #eee;
+}
+
+ul.menu a:hover {
+	color: black;
+	background-color: white;
+}
+
+ul.menu a:active {
+	color: white;
+	background-color: gray;
+}
+
+div#right {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 12em;
+	padding: 0 1em;
+	border: 1px dashed silver;
+}
+
+div#right h1 {
+	font-size: 1.5em;
+	margin: 0 0 1em;
+}
+
+div#right h2 {
+	font-size: 1.2em;
+	margin: 0 0 1em;
+}
+
+div#right p {
+	font-size: 1em;
+	margin: 1em 0;
 }
