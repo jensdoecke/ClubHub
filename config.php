@@ -43,91 +43,91 @@ $fussballVereine = array (
 
 $tennisVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
+				"logo" => "fcbamberg.jpg",
+				"name" => "FC Bamberg",
+				"ort" => "Bamberg",
 				"bewertung" => 5 
 		),
 		array (
-				"logo" => "fcaugsburg.jpg",
-				"name" => "FC Augsburg",
-				"ort" => "Augsburg",
+				"logo" => "fcregensburg.gif",
+				"name" => "FC Regensburg",
+				"ort" => "Regensburg",
 				"bewertung" => 4 
 		) 
 );
 
 $schwimmenVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
+				"logo" => "fcfreising.jpg",
+				"name" => "FC Freising",
+				"ort" => "Freising",
 				"bewertung" => 5 
 		),
 		array (
-				"logo" => "fcaugsburg.jpg",
-				"name" => "FC Augsburg",
-				"ort" => "Augsburg",
+				"logo" => "fccoburg.jpg",
+				"name" => "FC Coburg",
+				"ort" => "Coburg",
 				"bewertung" => 4 
 		) 
 );
 
 $golfVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
-				"bewertung" => 5 
+				"logo" => "fclandshut.jpg",
+				"name" => "FC Landshut",
+				"ort" => "Landshut",
+				"bewertung" => 3 
 		),
 		array (
 				"logo" => "fcaugsburg.jpg",
 				"name" => "FC Augsburg",
 				"ort" => "Augsburg",
-				"bewertung" => 4 
+				"bewertung" => 2 
 		) 
 );
 
 $tischtennisVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
+				"logo" => "fcdachau.jpg",
+				"name" => "FC Dachau",
+				"ort" => "Dachau",
 				"bewertung" => 5 
 		),
 		array (
-				"logo" => "fcaugsburg.jpg",
-				"name" => "FC Augsburg",
-				"ort" => "Augsburg",
-				"bewertung" => 4 
+				"logo" => "fckarlsfeld.jpg",
+				"name" => "FC Karlsfeld",
+				"ort" => "Karlsfeld",
+				"bewertung" => 1 
 		) 
 );
 
 $handballVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
+				"logo" => "fclandshut.gif",
+				"name" => "FC Landshut",
+				"ort" => "Landshut",
 				"bewertung" => 5 
 		),
 		array (
-				"logo" => "fcaugsburg.jpg",
-				"name" => "FC Augsburg",
-				"ort" => "Augsburg",
+				"logo" => "fcnuernberg.png",
+				"name" => "FC Nuernberg",
+				"ort" => "Nuernberg",
 				"bewertung" => 4 
 		) 
 );
 
 $judoVereine = array (
 		array (
-				"logo" => "fcbayern.png",
-				"name" => "FC Bayern München",
-				"ort" => "München",
+				"logo" => "fuerth.jpg",
+				"name" => "FC Fuerth",
+				"ort" => "Fuerth",
 				"bewertung" => 5 
 		),
 		array (
-				"logo" => "fcaugsburg.jpg",
-				"name" => "FC Augsburg",
-				"ort" => "Augsburg",
-				"bewertung" => 4 
+				"logo" => "passau.jpg",
+				"name" => "FC Passau",
+				"ort" => "Passau",
+				"bewertung" => 2 
 		) 
 );
 
