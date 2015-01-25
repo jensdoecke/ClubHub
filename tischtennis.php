@@ -1,5 +1,19 @@
 <?php 
 	include 'config.php';
 	include 'utils.php';
-	printDefault(getEntries($GLOBALS['tischtennisVereine'], "tischtennis"));
+	$tischtennisVereine = array (
+			array (
+					"logo" => "fcdachau.jpg",
+					"name" => "FC Dachau",
+					"ort" => "Dachau",
+					"bewertung" => 5
+			),
+			array (
+					"logo" => "fckarlsfeld.jpg",
+					"name" => "FC Karlsfeld",
+					"ort" => "Karlsfeld",
+					"bewertung" => 1
+			)
+	);
+	printDefault(getEntries($tischtennisVereine, 'tischtennis'));
 ?>
