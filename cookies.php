@@ -2,7 +2,7 @@
 	include 'config.php';
 	include 'utils.php';
 	// TODO
-	printDefault('<h1>Cookies</h1>
+	printDefault('<h2>Cookies</h2>
 
 Der Anbieter setzt im Rahmen seines Onlineangebotes „Cookies“ ein. Cookies sind kleine Dateien, die auf dem Computer der Nutzer abgelegt werden und Informationen für Anbieter speichern können. Temporäre Cookies werden nach dem Schließen des Browsers gelöscht, permanente Cookies bleiben für einen vorgegebenen Zeitraum erhalten und können beim erneuten Aufruf des Onlineangebotes die gespeicherten Informationen zur Verfügung stellen.
 
