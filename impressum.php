@@ -13,15 +13,9 @@
 
 <p>Geschäftsführer: Hermann Club</p>
 
-<p>Telefonnummer: +49 (0)89 123-0</p>
-<p>Faxnummer: +49 (0)89 123-30</p>
-<p>E-Mail Adresse: info@clubhub.de</p>
-<p>Registergericht & Registernummer: Amtsgericht München: HRB 123456</p>
-<p>Umsatzsteuer-Identifikationsnummer: DE 123 456 789</p>');
-
-<p>Telefonnummer: +49 (0)89 123-0</p>
-<p>Faxnummer: +49 (0)89 123-30</p>
-<p>E-Mail Adresse: info@clubhub.de</p>
-<p>Registergericht & Registernummer: Amtsgericht München: HRB 123456</p>
-<p>Umsatzsteuer-Identifikationsnummer: DE 123 456 789</p>’);
+Telefonnummer: +49 (0)89 123-0<br/>
+Faxnummer: +49 (0)89 123-30<br/>
+E-Mail Adresse: info@clubhub.de<br/>
+Registergericht & Registernummer: Amtsgericht München: HRB 123456<br/>
+Umsatzsteuer-Identifikationsnummer: DE 123 456 789<br/>');
 ?>

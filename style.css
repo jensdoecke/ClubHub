@@ -1,16 +1,17 @@
 @CHARSET "UTF-8";
 
+body{
+	background-color: #eee;
+	font-family: "Times New Roman", Times, serif;
+}
+
 div#wrapper {
 	text-align: left;
 	margin: 0 auto;
 	width: 1024px;
 	padding: 0.5em;
 	border: 2px ridge silver;
-}
-
-}
-header {
-	display: inline;
+	background-color: white
 }
 
 form {
@@ -38,9 +39,6 @@ a.account, a.gov {
 	text-align: center;
 }
 
-header {
-	display: block;
-}
 
 input.suchText {
 	width: 28em;
