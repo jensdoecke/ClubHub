@@ -58,6 +58,10 @@ table.verein {
 	margin: 0px auto;
 }
 
+td {
+	padding: 0em 3em;
+}
+
 ul.menu {
 	font-size: 0.91em;
 	float: left;
