@@ -17,5 +17,5 @@ Deutschland</p>
 Faxnummer: +49 (0)89 123-30
 E-Mail Adresse: info@clubhub.de
 Registergericht & Registernummer: Amtsgericht München: HRB 123456
-Umsatzsteuer-Identifikationsnummer: DE 123 456 789</p>’);
+Umsatzsteuer-Identifikationsnummer: DE 123 456 789</p>');
 ?>
