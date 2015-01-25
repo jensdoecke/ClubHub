@@ -1,8 +1,13 @@
 @CHARSET "UTF-8";
 
-body{
+body {
 	background-color: #eee;
 	font-family: "Times New Roman", Times, serif;
+}
+
+a:visited {
+	color: #666;
+	background-color: #eee;
 }
 
 div#wrapper {
@@ -58,6 +63,10 @@ table.verein {
 	margin: 0px auto;
 }
 
+thead{
+    font-weight: bold;
+}
+
 td {
 	padding: 0em 3em;
 }
@@ -81,6 +90,7 @@ ul.menu a {
 	display: block;
 	padding: 0.2em;
 	font-weight: bold;
+	text-align: right;
 }
 
 ul.menu a:link {
@@ -88,9 +98,13 @@ ul.menu a:link {
 	background-color: #eee;
 }
 
-ul.menu a:visited {
+a:visited {
 	color: #666;
 	background-color: #eee;
+}
+
+a:hover {
+	color: black;
 }
 
 ul.menu a:hover {
